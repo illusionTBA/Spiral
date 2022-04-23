@@ -73,7 +73,7 @@ document.querySelector('.ultra-violet-btn').addEventListener('click', async even
 });
 
 
-const womurl = "https://viperismid.herokuapp.com/main/"
+const womurl = "your url here/main/"
 
 document.querySelector(".womginx-btn").addEventListener('click', function () {
 
